@@ -172,6 +172,7 @@ export const countries: Countries = {
   KN: "Saint Kitts and Nevis",
   LC: "Saint Lucia",
   WS: "Samoa",
+  SME: "Sámi",
   SM: "San Marino",
   ST: "Sao Tome and Principe",
   SA: "Saudi Arabia",
